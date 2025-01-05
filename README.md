@@ -64,6 +64,11 @@ The Gemini AI Crime Case Generator is a web-based application that collects user
 ---
 
 ## Screenshots
+![](https://github.com/hackice20/justice-gpt/blob/main/Screenshot%202025-01-05%20124906.png)
+
+![](https://github.com/hackice20/justice-gpt/blob/main/Screenshot%202025-01-05%20124934.png)
+
+![](https://github.com/hackice20/justice-gpt/blob/main/Screenshot%202025-01-05%20124951.png)
 
 ## License
 This project is licensed under the **MIT License**, allowing for open use, modification, and distribution with proper attribution.
