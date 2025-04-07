@@ -15,7 +15,7 @@ export async function analyzeCaseWithAI(caseInfo: {
   location: string;
 }) {
   try {
-    const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash-thinking-exp-01-21' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
 
     const prompt = `
       Analyze this legal case from India:
